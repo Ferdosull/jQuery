@@ -1,0 +1,6 @@
+Introduction - https://youtu.be/-zqeDs1qJg8
+Downloading jQuery - https://youtu.be/g0GWpckFfCo
+jQuery Selectors - https://youtu.be/H8C9iyndE9Q
+Changing Html/Css with jQuery - https://youtu.be/PAYbk82fG2Q
+Writing our first jQuery script - https://youtu.be/UojzS-rV5F8
+
